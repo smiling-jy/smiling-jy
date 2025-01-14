@@ -20,26 +20,25 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </div>
-
-    <div align= "center">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
-        <br> 
-        <div align= "center"> 
-            <a href=https://blog.naver.com/smiling2012> 
-                <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/smiling2012"> 
-            </a>
-            <a href=mailto:smilingjiyoon@gmail.com> 
-                <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smilingjiyoon@gmail.com"> 
-            </a>
-        </div>  
-        <br> 
-        <div align= "center"></div> 
-    </div>
+</div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
+    <br> 
     <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <div align= "center"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=smiling-jy&bg_color=180,202227,00000000&title_color=ffffff&text_color=ffffff"/> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiling-jy&layout=compact&bg_color=180,202227,00000000&title_color=ffffff&text_color=ffffff"/>
-        </div> 
-    </div>
+        <a href=https://blog.naver.com/smiling2012> 
+            <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/smiling2012"> 
+        </a>
+        <a href=mailto:smilingjiyoon@gmail.com> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:smilingjiyoon@gmail.com"> 
+        </a>
+    </div>  
+    <br> 
+    <div align= "center"></div> 
+</div>
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=smiling-jy&bg_color=180,202227,00000000&title_color=ffffff&text_color=ffffff"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiling-jy&layout=compact&bg_color=180,202227,00000000&title_color=ffffff&text_color=ffffff"/>
+    </div> 
 </div>
